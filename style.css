@@ -1,0 +1,54 @@
+body {
+  background-color: rgba(245, 222, 179, 0.062);
+}
+h2 {
+  font-size: 28px;
+}
+.Logo {
+  border-bottom: 1px solid black;
+}
+.title {
+  margin-top: 50px;
+  margin-left: 10px;
+  border-bottom: 3px solid black;
+}
+.date {
+  font-size: 15px;
+}
+
+img {
+  width: 430px;
+  height: 620px;
+}
+
+.explanation {
+  position: absolute;
+  top: 310px;
+  left: 500px;
+  border-bottom: 1px solid black;
+}
+
+.plan {
+  position: absolute;
+  top: 560px;
+  left: 500px;
+  border-bottom: 1px solid black;
+}
+
+.picture {
+  margin-bottom: 100px;
+}
+
+.detailled {
+  border-top: 3px solid black;
+  text-align: center;
+}
+
+.button {
+  font-size: 30px;
+  text-align: center;
+  border: 2px solid rgb(202, 52, 52);
+  width: 263px;
+  background-color: rgb(202, 52, 52);
+  color: white;
+}
